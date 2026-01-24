@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
 import FloatingWhatsApp from './components/FloatingWhatsApp';
+import ScrollToTop from './components/ScrollToTop';
 import SEO from './components/SEO';
 import Home from './pages/Home';
 import PropertyPage from './pages/PropertyPage';
@@ -10,6 +11,7 @@ import RoomDetail from './pages/RoomDetail';
 function App() {
   return (
     <Router>
+      <ScrollToTop />
       <SEO />
       <div className="min-h-screen">
         <Navigation />
@@ -24,3 +26,5 @@ function App() {
     </Router>
   );
 }
+
+export default App;

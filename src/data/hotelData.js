@@ -61,8 +61,7 @@ export const hotelData = {
           price: 150,
           specialOffer: "Nacer's Special",
           images: [
-            "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1200",
-            "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1200"
           ],
           amenities: ["WiFi", "TV", "Escritorio", "Armario amplio", "Ventanas grandes"],
           description: "Nuestra habitación más espaciosa con cama King y todo el confort para una estadía inolvidable."
@@ -139,8 +138,8 @@ export const hotelData = {
           price: 100,
           specialOffer: "Nacer's Special",
           images: [
-            "https://images.pexels.com/photos/1457847/pexels-photo-1457847.jpeg?auto=compress&cs=tinysrgb&w=1200",
-            "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            "https://images.pexels.com/photos/1457847/pexels-photo-1457847.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            
           ],
           amenities: [
             "Cortinas de privacidad",
@@ -250,7 +249,7 @@ export const hotelData = {
     ]
   },
 
-  whatsappNumber: "51987654321",
+  whatsappNumber: "51916616785",
 
   historicalContext: {
     title: "Historia Viva",
